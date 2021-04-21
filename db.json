@@ -1,0 +1,62 @@
+{
+  "characters": [
+    {
+      "id": 5928101,
+      "name":"Eren Jaeger",
+      "image":"https://s1.qwant.com/thumbr/0x380/0/a/720e9ce2a18917088a9711d0eb271d396eec1be5d3887c964278d8d84bf707/image-de-eren_1.jpg?u=http%3A%2F%2Fwww.galerie-imagine.fr%2Fimages%2Fimage-de-eren_1.jpg&q=0&b=1&p=0&a=0",
+      "anime":"Shingeki no Kyojin",
+      "category": "shonen",
+      "creator": "Hajime Isayama",
+      "firstEpisode":"2013"
+    },
+    {
+      "id": 8419988,
+      "name":"Levi Ackerman",
+      "image":"https://www.pinterest.com.mx/pin/842595411514479097/",
+      "anime":"Shingeki no Kyojin",
+      "category": "shonen",
+      "creator": "Hajime Isayama",
+      "firstEpisode":"2013"
+      
+    },
+    {
+      "id": 4582797,
+      "name":"Meliodas",
+      "image":"http://es.nanatsu-no-taizai.wikia.com/wiki/Meliodas",
+      "anime":"Nanatsu no Taizai",
+      "category": "shonen",
+      "creator": "Nakaba",
+      "firstEpisode":"2018"
+    },
+    {
+      "id": 5482797,
+      "name":"Shiryu",
+      "image":"https://www.pinterest.com/pin/507499451752620308/",
+      "anime":"Saint Seiya",
+      "category": "shonen",
+      "creator": "Masami Kurumada",
+      "firstEpisode":"1986",
+      "lastEpisode":"1989"
+    },
+    {
+      "id": 7642797,
+      "name":"Rin Okumura",
+      "image":"https://comicvine.gamespot.com/rin-okumura/4005-81390/",
+      "anime":"Ao no Exorcist",
+      "category": "shonen",
+      "creator": "Kazue Kato",
+      "firstEpisode":"2011",
+      "lastEpisode":"2011 "
+    },
+    {
+      "id": 6452797,
+      "name":"Kakashi Hatake",
+      "image":"https://dribbble.com/shots/14020384-Kakashi-Hatake",
+      "anime":"Naruto",
+      "category": "shonen",
+      "creator": "Masashi Kishimoto",
+      "firstEpisode":"2002",
+      "lastEpisode":"2017 "
+    }
+  ]
+}
