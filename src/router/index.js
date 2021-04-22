@@ -17,6 +17,15 @@ const routes = [
     props:true
   },
   {
+    path:'/create/character',
+    name:'Create',
+    component: () => import("../views/CreateCharacter.vue")
+  },
+  {
+    path:'/test',
+    component: () => import("../views/Counter.vue")
+  },
+  {
     path: "*",
     redirect: { name: "Home" },
   },
