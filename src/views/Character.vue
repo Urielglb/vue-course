@@ -35,5 +35,9 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
+img{
+  width: 300px;
+  height: 300px;
+}
 </style>
