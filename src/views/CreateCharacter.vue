@@ -46,6 +46,7 @@ export default {
   methods: {
     newCharacter() {
       return {
+        id: 0,
         name: "",
         image: "",
         anime: "",
@@ -56,15 +57,13 @@ export default {
       };
     },
     async createCharacter() {
-      const characterId = Math.floor(Math.random * 10000 + 1);
-      const character = {
-        id: characterId,
-        ...this.character,
-      };
-      await characterServices.postCharacter(character);
+      this.character.id = Math.floor(Math.random() * 10000 + 1);
+      console.log(this.character.id);
+      await characterServices.postCharacter(this.character);
+      console.log(this.character.id);
       this.$router.push({
-        name: "Home",
-        // id:id
+        name: "Character",
+        params: { id: this.character.id },
       });
     },
   },
